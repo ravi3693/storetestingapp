@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: store_testing
+  host: localhost 
+  username: postgres
+  password: media3
+  poll: 10
