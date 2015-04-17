@@ -64,6 +64,7 @@ end
 
 gem 'spree_api'
 gem 'spree_frontend', '~> 3.0.0'
+gem 'spree_core', '~> 3.0.0'
 gem 'spree_backend' 
 gem 'spree', '3.0.0'
 gem 'spree_gateway', github: 'spree/spree_gateway', branch: '3-0-stable'
